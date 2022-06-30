@@ -18,6 +18,6 @@ Error checking for text strings or other invalid inputs is not required, only va
 
 # Penjelasan Panjang
 
-Sebagai contoh: bilangan 153. Karakter angka bilangan ratusan atau digit tiga tersebut berturut-turut adalah 1, 5, dan 3. Bila tiap karakter dikuadratkan sesuai digitnya, alias dikuadratkan dengan angka tiga, kemudian ketiga kuadrat tersebut dijumlahkan, hasilnya akan sama dengan 153. Bila dinyatakan dalam persamaan matematika: 153 = 13 + 53 + 33 = 1 + 125 + 27 = 153. Contoh lain adalah angka empat digit 1634, dalam persamaan matematika: 14 + 64 + 34 + 44 = 1 + 1296 + 81 + 256 = 1634.
+Sebagai contoh: bilangan 153. Karakter angka bilangan ratusan atau digit tiga tersebut berturut-turut adalah 1, 5, dan 3. Bila tiap karakter dikuadratkan sesuai digitnya, alias dikuadratkan dengan angka tiga, kemudian ketiga kuadrat tersebut dijumlahkan, hasilnya akan sama dengan 153. Bila dinyatakan dalam persamaan matematika: 153 = 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153. Contoh lain adalah angka empat digit 1634, dalam persamaan matematika: 1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634.
 
 referensi: https://digstraksi.com/perburuan-angka-narsistik/
